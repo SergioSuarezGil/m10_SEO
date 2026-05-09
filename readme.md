@@ -29,8 +29,8 @@ Esto mejorará el proceso de indexación y posicionamiento de la web.
 `<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article:http://ogp.me/ns/article#">`
 `<meta property="og:title" content="Sergio Suarez CV" />`
 `<meta property="og:type" content="article" />`
-`<meta property="og:url" content="https://sergiosuarezdev.com" />`
-`<meta property="og:image" content="https://sergiosuarezdev.com/assets/img/sergio.jpg" /> `
+`<meta property="og:url" content="https://sergiosuarezgil.com" />`
+`<meta property="og:image" content="https://sergiosuarezgil.com/assets/img/sergio.jpg" /> `
 `<meta property="og:description" content="CV De Sergio Suarez" />` 
 `<meta property="og:site_name" content="Sitio Web de Sergio Suarez" /> `
 `<meta property="fb:app_id" content="XXXXXXXX" />`
